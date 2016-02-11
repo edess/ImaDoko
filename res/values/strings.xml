@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImaDoko</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_after_main">AfterMain</string>
+
+    <string-array name="list_of_options">
+        <item>Contact a student? </item>
+        <item>Send a group message </item>
+        <item>Set long term absence</item>
+        <item>Contact developers</item>
+    </string-array>
+
+    <string name="title_activity_contact_astudent">Contact A Student</string>
+    <string name="title_activity_send_group_message">Send A Group Message</string>
+    <string name="title_activity_set_long_time_absence">Set a long time absence</string>
+    <string name="title_activity_contact_developers">Contact Developers</string>
+    <string name="inOrout">Inside/Outside ???</string>
+    <string name="title_activity_ubi_seminar">Ubi Paper/Textbook Seminar</string>
+    <string name="title_activity_for_the_secretary">For Kanaoka san</string>
+
+</resources>
